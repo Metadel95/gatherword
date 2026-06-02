@@ -1,0 +1,13 @@
+{
+  "name": "GatherWord",
+  "short_name": "GatherWord",
+  "description": "Real-time Bible study for church small groups",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D0F1A",
+  "theme_color": "#0D0F1A",
+  "orientation": "any",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
